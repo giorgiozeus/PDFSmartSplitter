@@ -1,0 +1,10 @@
+*.db
+*.pdf
+!pratiche_esempio.pdf
+dividi_pdf_impostazioni.json
+dividi_pdf_tema.txt
+dividi_pdf_db.txt
+build/
+dist/
+__pycache__/
+*.spec
